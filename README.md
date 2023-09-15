@@ -8,6 +8,7 @@
 
 - python==3.11.0
 - fastapi
+- Jupyter Notebook
 
 ## How to start
 
